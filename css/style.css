@@ -1,0 +1,31 @@
+
+#cartCounter {
+    padding: 3px;
+    background-color: red;
+    color: white;
+    border-radius: 50%;
+}
+
+#slides {
+ height: 880px;
+}
+
+.carousel-caption{
+    margin-bottom: 100px;
+    background-color: rgba(28, 30, 53, 0.4);
+    border-radius: 10px;
+}
+
+.top-padding {
+    padding-top: 3rem;
+}
+
+#heading {
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 2rem;
+}
+
+.col-10{
+    margin: auto;
+}
